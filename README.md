@@ -1,4 +1,4 @@
-# Physiognomy
+# Physiognomy - Finding New Ways to Tackle Life's Problems
 
 AI project based on gaming mode to treatment the psychological disease. 
 
@@ -7,9 +7,6 @@ Feeling down, angry, stresssed is anormal part of life you have to face it.
 
 - Project Presentation Video: https://youtu.be/754__xBsa
 
- - Project UI/UX: https://www.behance.net/M
+ - Project UI/UX: https://www.behance.net/gallery/95549885/PHYSIOGNOMY-Mobile-App-UIUX
 
 **Team Members:** Ahmed Habeeb, Ahmed Turboo, Mohamed Zaki, Habiba Mohamed, Eman Mohamed, Amany Sherif
-
-
-    Finding New Ways to Tackle Life's Problems
