@@ -12,3 +12,5 @@ Feeling down, angry, stressed is a normal part of life you have to face it.
 - Project Flutter App: https://github.com/ahmedfayed29/Physiognomy-App
 
 **Team Members:** Ahmed Habeeb, Ahmed Turboo, Mohamed Zaki, Habiba Mohamed, Eman Mohamed, Amany Sherif
+
+**Under the supervision of:** Dr. Sara El-Sayed El-Metwally, Assistant Professor of Computer Science Dept. Faculty of Computer & Information Sciences - Mansoura University
